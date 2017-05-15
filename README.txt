@@ -16,7 +16,7 @@ theta - The parameters to be learned.
 
 ---Example---
 
-1) Change dir into ./OLS
+1) Change dir to where OLS.py is.
 
 2) Run this in a python terminal:
 
