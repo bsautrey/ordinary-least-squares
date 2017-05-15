@@ -3,7 +3,6 @@ Written by Ben Autrey: https://github.com/bsautrey
 ---Overview---
 
 Implement ordinary least squares from Andrew Ng's CS229 course: http://cs229.stanford.edu/notes/cs229-notes1.pdf. Stochastic gradient descent is used to learn the parameters, i.e. minimize the cost function.
-from copy import copy
 
 alpha - The learning rate.
 dampen - Factor by which alpha is dampened on each iteration. Default is no dampening, i.e. dampen = 1.0
